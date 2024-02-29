@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://docs.ropensci.org/icepalace/404.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/icepalace/LICENSE-text.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/icepalace/LICENSE.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/icepalace/authors.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/icepalace/index.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/icepalace/news/index.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/icepalace/reference/index.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/icepalace/reference/snapshot_package_repository.html</loc>
+  </url>
+</urlset>

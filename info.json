@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "3053008a4f44e59a684163b55775d417da64d285",
+    "author": "Maëlle Salmon <maelle.salmon@yahoo.se>",
+    "time": "2022-05-31 13:47:06",
+    "files": 2,
+    "merge": false,
+    "message": "Bump version to 0.0.0.9004\n"
+  },
+  "repo": "https://github.com/ropenscilabs/icepalace",
+  "pkg": "icepalace"
+}
