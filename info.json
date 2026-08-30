@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "f9bc3745a9a01bd609752db2e8d1691852636645",
+    "author": "Maëlle Salmon <maelle.salmon@yahoo.se>",
+    "time": "2025-02-04T13:27:19Z",
+    "files": 1,
+    "merge": false,
+    "message": "docs: add rOpenSci's ROR :rocket:\n"
+  },
+  "repo": "https://github.com/ropenscilabs/icepalace",
+  "pkg": "icepalace",
+  "time": "2026-08-30T07:11:58Z"
+}
